@@ -1,7 +1,7 @@
 # My SLAM - English README
 
 ## Overview
-`The solution is preconfigured for the Unitree Go2 robot.`
+#  `The solution is preconfigured for the Unitree Go2 robot.`
 
 **My SLAM** is a lightweight, real-time **Simultaneous Localization and Mapping** system implemented in C++17 using ROS 2. It performs scan-to-map registration via point-to-plane ICP (Gauss-Newton optimization) and maintains both local and global 3D point cloud maps using voxel-based data structures.
 
