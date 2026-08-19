@@ -1,4 +1,4 @@
-# My SLAM - English README
+# My SLAM
 
 ## Overview
 #  `The solution is preconfigured for the Unitree Go2 robot.`
